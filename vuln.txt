@@ -1,0 +1,138 @@
+admin:admin:118.180.214.10 admin:admin:106.59.125.148 
+admin:password:117.204.68.75 ubnt:ubnt:88.33.143.133 
+admin:admin:106.59.125.148 ubnt:ubnt:88.33.143.133 
+admin:admin:119.145.189.118 admin:admin1234:36.79.210.33 
+admin:admin:36.79.210.33 admin:admin:113.108.118.106 
+admin:admin:115.216.219.113 root:root:59.99.241.74 
+4321:4321:31.197.226.113 pi:raspberry:31.197.226.113 
+centos:centos:31.197.226.113 admin:admin1234:31.197.226.113 
+support:support:31.197.226.113 usuario:usuario:31.197.226.113 
+1234:1234:31.197.226.113 admin:admin:31.197.226.113 
+ubnt:ubnt:31.197.226.113 admin:admin:121.11.170.152 
+4321:4321:62.86.147.230 pi:raspberry:62.86.147.230 
+centos:centos:62.86.147.230 admin:admin1234:62.86.147.230 
+support:support:62.86.147.230 usuario:usuario:62.86.147.230 
+1234:1234:62.86.147.230 admin:admin:62.86.147.230 
+ubnt:ubnt:62.86.147.230 4321:4321:79.54.107.141 
+pi:raspberry:79.54.107.141 centos:centos:79.54.107.141 
+admin:admin1234:79.54.107.141 support:support:79.54.107.141 
+usuario:usuario:79.54.107.141 1234:1234:79.54.107.141 
+admin:admin:79.54.107.141 ubnt:ubnt:79.54.107.141 4321:4321:2.112.49.253 
+pi:raspberry:2.112.49.253 centos:centos:2.112.49.253 
+admin:admin1234:2.112.49.253 support:support:2.112.49.253 
+usuario:usuario:2.112.49.253 1234:1234:2.112.49.253 
+admin:admin:2.112.49.253 ubnt:ubnt:2.112.49.253 
+admin:admin:115.233.227.194 4321:4321:80.22.84.166 
+pi:raspberry:80.22.84.166 centos:centos:80.22.84.166 
+admin:admin1234:80.22.84.166 support:support:80.22.84.166 
+usuario:usuario:80.22.84.166 1234:1234:80.22.84.166 
+admin:admin:80.22.84.166 ubnt:ubnt:80.22.84.166 4321:4321:217.58.44.245 
+pi:raspberry:217.58.44.245 centos:centos:217.58.44.245 
+admin:admin1234:217.58.44.245 support:support:217.58.44.245 
+usuario:usuario:217.58.44.245 1234:1234:217.58.44.245 
+admin:admin:217.58.44.245 ubnt:ubnt:217.58.44.245 
+admin:admin1234:117.220.185.130 admin:admin:117.220.185.130 
+admin:admin:111.75.231.230 4321:4321:80.20.182.89 
+pi:raspberry:80.20.182.89 centos:centos:80.20.182.89 
+admin:admin1234:80.20.182.89 support:support:80.20.182.89 
+usuario:usuario:80.20.182.89 1234:1234:80.20.182.89 
+admin:admin:80.20.182.89 ubnt:ubnt:80.20.182.89 
+admin:admin1234:125.163.113.160 admin:admin:125.163.113.160 
+admin:admin:120.33.89.28 admin:admin:122.175.2.95 
+admin:admin:125.108.18.104 admin:admin:119.123.93.73 
+4321:4321:80.23.212.217 pi:raspberry:80.23.212.217 
+centos:centos:80.23.212.217 admin:admin1234:80.23.212.217 
+support:support:80.23.212.217 usuario:usuario:80.23.212.217 
+1234:1234:80.23.212.217 admin:admin:80.23.212.217 
+ubnt:ubnt:80.23.212.217 4321:4321:79.9.16.164 pi:raspberry:79.9.16.164 
+centos:centos:79.9.16.164 admin:admin1234:79.9.16.164 
+support:support:79.9.16.164 usuario:usuario:79.9.16.164 
+1234:1234:79.9.16.164 admin:admin:79.9.16.164 ubnt:ubnt:79.9.16.164 
+ubnt:ubnt:117.205.1.178 4321:4321:31.198.208.153 
+pi:raspberry:31.198.208.153 centos:centos:31.198.208.153 
+admin:admin1234:31.198.208.153 support:support:31.198.208.153 
+usuario:usuario:31.198.208.153 1234:1234:31.198.208.153 
+admin:admin:31.198.208.153 ubnt:ubnt:31.198.208.153 
+admin:admin:80.104.150.118 4321:4321:95.229.133.36 
+pi:raspberry:95.229.133.36 centos:centos:95.229.133.36 
+admin:admin1234:95.229.133.36 support:support:95.229.133.36 
+usuario:usuario:95.229.133.36 1234:1234:95.229.133.36 
+admin:admin:95.229.133.36 ubnt:ubnt:95.229.133.36 
+admin:admin:59.97.136.198 admin:admin1234:117.220.188.105 
+admin:admin:117.220.188.105 4321:4321:79.11.102.43 
+pi:raspberry:79.11.102.43 centos:centos:79.11.102.43 
+admin:admin1234:79.11.102.43 support:support:79.11.102.43 
+usuario:usuario:79.11.102.43 1234:1234:79.11.102.43 
+admin:admin:79.11.102.43 ubnt:ubnt:79.11.102.43 
+admin:admin:116.25.240.147 admin:admin:177.0.200.43 
+4321:4321:80.22.236.161 pi:raspberry:80.22.236.161 
+centos:centos:80.22.236.161 admin:admin1234:80.22.236.161 
+support:support:80.22.236.161 usuario:usuario:80.22.236.161 
+1234:1234:80.22.236.161 admin:admin:80.22.236.161 
+ubnt:ubnt:80.22.236.161 admin:admin1234:61.0.97.61 
+admin:admin:61.0.97.61 4321:4321:79.60.189.141 
+pi:raspberry:79.60.189.141 centos:centos:79.60.189.141 
+admin:admin1234:79.60.189.141 support:support:79.60.189.141 
+usuario:usuario:79.60.189.141 1234:1234:79.60.189.141 
+admin:admin:79.60.189.141 ubnt:ubnt:79.60.189.141 
+admin:admin1234:110.81.65.248 admin:admin:110.81.65.248 
+admin:admin1234:117.207.94.40 admin:admin:117.207.94.40 
+admin:admin:118.122.249.126 admin:admin:113.102.33.227 
+4321:4321:79.6.34.185 pi:raspberry:79.6.34.185 centos:centos:79.6.34.185 
+admin:admin1234:79.6.34.185 support:support:79.6.34.185 
+usuario:usuario:79.6.34.185 1234:1234:79.6.34.185 
+admin:admin:79.6.34.185 ubnt:ubnt:79.6.34.185 4321:4321:79.9.26.187 
+pi:raspberry:79.9.26.187 centos:centos:79.9.26.187 
+admin:admin1234:79.9.26.187 support:support:79.9.26.187 
+usuario:usuario:79.9.26.187 1234:1234:79.9.26.187 
+admin:admin:79.9.26.187 ubnt:ubnt:79.9.26.187 4321:4321:79.8.59.6 
+pi:raspberry:79.8.59.6 centos:centos:79.8.59.6 admin:admin1234:79.8.59.6 
+support:support:79.8.59.6 usuario:usuario:79.8.59.6 1234:1234:79.8.59.6 
+admin:admin:79.8.59.6 ubnt:ubnt:79.8.59.6 4321:4321:79.11.178.232 
+pi:raspberry:79.11.178.232 centos:centos:79.11.178.232 
+admin:admin1234:79.11.178.232 support:support:79.11.178.232 
+usuario:usuario:79.11.178.232 1234:1234:79.11.178.232 
+admin:admin:79.11.178.232 ubnt:ubnt:79.11.178.232 
+admin:admin:115.236.48.74 admin:admin:79.12.252.235 4321:4321:79.0.93.5 
+pi:raspberry:79.0.93.5 centos:centos:79.0.93.5 admin:admin1234:79.0.93.5 
+support:support:79.0.93.5 usuario:usuario:79.0.93.5 1234:1234:79.0.93.5 
+admin:admin:79.0.93.5 ubnt:ubnt:79.0.93.5 admin:admin:125.108.38.203 
+admin:admin1234:59.98.148.21 admin:admin:59.98.148.21 
+admin:admin:111.75.189.164 ubnt:ubnt:113.88.231.230 
+admin:admin:61.183.150.42 admin:admin:122.233.78.253 
+4321:4321:79.24.154.10 pi:raspberry:79.24.154.10 
+centos:centos:79.24.154.10 admin:admin1234:79.24.154.10 
+support:support:79.24.154.10 usuario:usuario:79.24.154.10 
+1234:1234:79.24.154.10 admin:admin:79.24.154.10 ubnt:ubnt:79.24.154.10 
+admin:admin1234:36.69.109.36 4321:4321:213.26.182.117 
+pi:raspberry:213.26.182.117 centos:centos:213.26.182.117 
+admin:admin1234:213.26.182.117 support:support:213.26.182.117 
+usuario:usuario:213.26.182.117 1234:1234:213.26.182.117 
+admin:admin:213.26.182.117 ubnt:ubnt:213.26.182.117 
+4321:4321:217.59.140.1 pi:raspberry:217.59.140.1 
+centos:centos:217.59.140.1 admin:admin1234:217.59.140.1 
+support:support:217.59.140.1 usuario:usuario:217.59.140.1 
+1234:1234:217.59.140.1 admin:admin:217.59.140.1 ubnt:ubnt:217.59.140.1 
+4321:4321:79.1.58.210 pi:raspberry:79.1.58.210 centos:centos:79.1.58.210 
+admin:admin1234:79.1.58.210 support:support:79.1.58.210 
+usuario:usuario:79.1.58.210 1234:1234:79.1.58.210 
+admin:admin:79.1.58.210 ubnt:ubnt:79.1.58.210 admin:admin:200.138.65.90 
+4321:4321:79.9.151.8 pi:raspberry:79.9.151.8 centos:centos:79.9.151.8 
+admin:admin1234:79.9.151.8 support:support:79.9.151.8 
+usuario:usuario:79.9.151.8 admin:admin:79.9.151.8 ubnt:ubnt:79.9.151.8 
+admin:admin:117.220.9.100
+admin:admin:106.59.125.148
+admin:admin:109.203.197.178
+admin:admin:117.62.20.212
+admin:admin:61.166.174.198
+admin:admin:61.153.33.6
+admin:admin:115.208.56.30
+admin:admin:189.129.231.207
+DUP test:test:31.197.225.233
+DUP guest:guest:31.197.225.233
+DUP admin:password:31.197.225.233
+DUP ubnt:ubnt:31.197.225.233
+DUP user:user:31.197.225.233
+DUP admin:1234:31.197.225.233
+admin:admin:31.197.225.233
+admin:admin:116.55.171.11
