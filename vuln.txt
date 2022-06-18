@@ -1,6 +1,0 @@
-admin:admin:123.157.244.182
-admin:admin:123.7.51.209
-admin:admin:78.132.237.249
-admin:admin:95.81.211.6
-admin:admin:60.223.251.70
-admin:admin:120.6.185.77
